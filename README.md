@@ -1,5 +1,8 @@
 # BYTECT (BIKE DETECT-PROJECT)
 *조원 : 오현지, 박은서, 황가원*
+<br><br>
+<a href="">[PPT 다운로드]</a>
+<br>
 <br>
 <h2>작품 소개</h2>
 <p>횡단보도 통행 안전을 위한 딥러닝 기반 자전거 운전자 탐지 시스템</p>
