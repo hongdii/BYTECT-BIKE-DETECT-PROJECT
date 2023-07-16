@@ -1,7 +1,7 @@
 # BYTECT (BIKE DETECT-PROJECT)
 *조원 : 오현지, 박은서, 황가원*
 <br><br>
-<a href="">[PPT 다운로드]</a>
+<a href="https://github.com/hongdii/BYTECT-BIKE-DETECT-PROJECT/blob/main/22.06.07_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf">[PPT 다운로드]</a>
 <br>
 <br>
 <h2>작품 소개</h2>
