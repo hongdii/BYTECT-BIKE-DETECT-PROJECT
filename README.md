@@ -14,9 +14,18 @@
 자전거에서 내려 끌거나 들고 보행하여야 한다.
 <hr><br>
 <h2>개발 환경</h2>
+<img src="https://img.shields.io/badge/TensorFlow-FF7F00?style=flat&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/RaspberryPi-980036?style=flat&logo=RaspberryPi&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 
+<br>
+<h2>구현 사항</h2>
 
+![image](https://github.com/hongdii/BYTECT-BIKE-DETECT-PROJECT/assets/93081185/805bc43f-cf7d-43cd-a258-c800b810ec0a)
 
+![image](https://github.com/hongdii/BYTECT-BIKE-DETECT-PROJECT/assets/93081185/a890e72c-5eac-4d98-8df9-6acb21f44957)
+
+![image](https://github.com/hongdii/BYTECT-BIKE-DETECT-PROJECT/assets/93081185/daa8f457-4e1c-4b0e-8e59-9586209a99d4)
 
 
 
